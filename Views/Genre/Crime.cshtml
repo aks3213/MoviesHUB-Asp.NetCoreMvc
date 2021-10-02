@@ -1,0 +1,43 @@
+﻿@model IEnumerable<MoviesHUB.Models.Movie>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@{
+    ViewData["Title"] = "Genre";
+}
+
+<h1>Genre:Crime</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Details)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Details)
+                </td>
+                <td>
+                    @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                    {
+                        <a asp-controller="Movies" asp-action="Edit" asp-route-id="@item.Id" alt="Responsive image">Edit</a>} |
+                    <a asp-controller="Movies" asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                    {
+                        <a asp-controller="Movies" asp-action="Delete" asp-route-id="@item.Id">Delete</a>}
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

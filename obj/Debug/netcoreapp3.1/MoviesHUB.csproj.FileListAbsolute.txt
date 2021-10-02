@@ -1,0 +1,1398 @@
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.exe
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.deps.json
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.runtimeconfig.json
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.runtimeconfig.dev.json
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.pdb
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.Views.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.Views.pdb
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.AssemblyInfoInputs.cache
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.AssemblyInfo.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorAssemblyInfo.cache
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorAssemblyInfo.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.TagHelpers.input.cache
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.TagHelpers.output.cache
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorCoreGenerate.cache
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorTargetAssemblyInfo.cache
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorTargetAssemblyInfo.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.Views.pdb
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csproj.CopyComplete
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\staticwebassets\MoviesHUB.StaticWebAssets.Manifest.cache
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\staticwebassets\MoviesHUB.StaticWebAssets.xml
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.pdb
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.genruntimeconfig.cache
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csproj.CoreCompileInputs.cache
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csprojAssemblyReference.cache
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Genre.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Action.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Adventure.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Animated.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Comedy.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Crime.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Horror.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Romance.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Thriller.cshtml.g.cs
+C:\Users\akshay bhanderi\OneDrive\Desktop\wddn project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\appsettings.json
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.exe
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.deps.json
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.runtimeconfig.json
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.runtimeconfig.dev.json
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.pdb
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.Views.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.Views.pdb
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.AssemblyInfoInputs.cache
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.AssemblyInfo.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csproj.CoreCompileInputs.cache
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.MvcApplicationPartsAssemblyInfo.cache
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorAssemblyInfo.cache
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorAssemblyInfo.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.TagHelpers.input.cache
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.TagHelpers.output.cache
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorCoreGenerate.cache
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Action.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Adventure.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Animated.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Comedy.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Crime.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Horror.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Romance.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Thriller.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Genre.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorTargetAssemblyInfo.cache
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorTargetAssemblyInfo.cs
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.Views.pdb
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csproj.CopyComplete
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\staticwebassets\MoviesHUB.StaticWebAssets.Manifest.cache
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\staticwebassets\MoviesHUB.StaticWebAssets.xml
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.dll
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.pdb
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.genruntimeconfig.cache
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csprojAssemblyReference.cache
+D:\akshay\SEM5\pdfs\wddn\1.  project\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Controllers\Genre.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.exe
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.deps.json
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.runtimeconfig.json
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.runtimeconfig.dev.json
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.pdb
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.Views.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.Views.pdb
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csprojAssemblyReference.cache
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.AssemblyInfoInputs.cache
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.AssemblyInfo.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorAssemblyInfo.cache
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorAssemblyInfo.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.TagHelpers.input.cache
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.TagHelpers.output.cache
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorCoreGenerate.cache
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Controllers\Genre.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Action.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Adventure.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Animated.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Comedy.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Crime.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Horror.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Romance.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Thriller.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Genre.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorTargetAssemblyInfo.cache
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorTargetAssemblyInfo.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.Views.pdb
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\staticwebassets\MoviesHUB.StaticWebAssets.Manifest.cache
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\staticwebassets\MoviesHUB.StaticWebAssets.xml
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.pdb
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.genruntimeconfig.cache
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csproj.CopyComplete
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\NotFound.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csproj.CoreCompileInputs.cache
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\darsh\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserRoles.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.exe
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.deps.json
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.runtimeconfig.json
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.runtimeconfig.dev.json
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.pdb
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.Views.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.Views.pdb
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csprojAssemblyReference.cache
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.AssemblyInfoInputs.cache
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.AssemblyInfo.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csproj.CoreCompileInputs.cache
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorAssemblyInfo.cache
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorAssemblyInfo.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.TagHelpers.input.cache
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.TagHelpers.output.cache
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorCoreGenerate.cache
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Controllers\Genre.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserRoles.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Action.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Adventure.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Animated.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Comedy.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Crime.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Horror.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Romance.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Thriller.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Genre.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\NotFound.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorTargetAssemblyInfo.cache
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorTargetAssemblyInfo.cs
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.Views.pdb
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csproj.CopyComplete
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\staticwebassets\MoviesHUB.StaticWebAssets.Manifest.cache
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\staticwebassets\MoviesHUB.StaticWebAssets.xml
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.dll
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.pdb
+C:\Users\darsh\source\repos\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.genruntimeconfig.cache
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.exe
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.deps.json
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.runtimeconfig.json
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.runtimeconfig.dev.json
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.pdb
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.Views.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.Views.pdb
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csprojAssemblyReference.cache
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.AssemblyInfoInputs.cache
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.AssemblyInfo.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csproj.CoreCompileInputs.cache
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorAssemblyInfo.cache
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorAssemblyInfo.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.TagHelpers.input.cache
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.TagHelpers.output.cache
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorCoreGenerate.cache
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Controllers\Genre.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserRoles.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Action.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Adventure.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Animated.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Comedy.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Crime.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Horror.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Romance.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Thriller.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Genre.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\NotFound.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorTargetAssemblyInfo.cache
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorTargetAssemblyInfo.cs
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.Views.pdb
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csproj.CopyComplete
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\staticwebassets\MoviesHUB.StaticWebAssets.Manifest.cache
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\staticwebassets\MoviesHUB.StaticWebAssets.xml
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.dll
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.pdb
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.genruntimeconfig.cache
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHUBHAM\Downloads\CE_009_Akshay-master\CE_009_Akshay-master\project_CE009_CE016\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\scopedcss\bundle\MoviesHUB.styles.css
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.exe
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.deps.json
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.runtimeconfig.json
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.runtimeconfig.dev.json
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.pdb
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.Views.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.Views.pdb
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.AssemblyInfo.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorAssemblyInfo.cache
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorAssemblyInfo.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\staticwebassets\MoviesHUB.StaticWebAssets.Manifest.cache
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\staticwebassets\MoviesHUB.StaticWebAssets.xml
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\scopedcss\bundle\MoviesHUB.styles.css
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.TagHelpers.input.cache
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.TagHelpers.output.cache
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorCoreGenerate.cache
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Controllers\Genre.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserRoles.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Action.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Adventure.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Animated.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Comedy.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Crime.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Horror.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Romance.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Thriller.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Genre.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\NotFound.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorTargetAssemblyInfo.cs
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.Views.pdb
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csproj.CopyComplete
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.dll
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.pdb
+C:\Users\Dell\Downloads\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.genruntimeconfig.cache
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\appsettings.json
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.exe
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.deps.json
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.runtimeconfig.json
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.runtimeconfig.dev.json
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.pdb
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.Views.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\MoviesHUB.Views.pdb
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csprojAssemblyReference.cache
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.GeneratedMSBuildEditorConfig.editorconfig
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.AssemblyInfoInputs.cache
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.AssemblyInfo.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csproj.CoreCompileInputs.cache
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.MvcApplicationPartsAssemblyInfo.cache
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorAssemblyInfo.cache
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorAssemblyInfo.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\staticwebassets\MoviesHUB.StaticWebAssets.Manifest.cache
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\staticwebassets\MoviesHUB.StaticWebAssets.xml
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\scopedcss\bundle\MoviesHUB.styles.css
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.TagHelpers.input.cache
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.TagHelpers.output.cache
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorCoreGenerate.cache
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Controllers\Genre.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserRoles.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Action.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Adventure.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Animated.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Comedy.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Crime.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Horror.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Romance.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Thriller.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Genre.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\NotFound.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorTargetAssemblyInfo.cache
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.RazorTargetAssemblyInfo.cs
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.Views.pdb
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.csproj.CopyComplete
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.dll
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.pdb
+E:\akshay\Projects\Wddn\MoviesHUB\MoviesHUB\obj\Debug\netcoreapp3.1\MoviesHUB.genruntimeconfig.cache
